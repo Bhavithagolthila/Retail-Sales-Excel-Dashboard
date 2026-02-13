@@ -1,4 +1,5 @@
 📊 Retail Sales Excel Dashboard
+
 📌 Project Overview
 
 This project is an interactive Retail Sales Dashboard built using Microsoft Excel.
